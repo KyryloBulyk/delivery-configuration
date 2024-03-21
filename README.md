@@ -13,6 +13,7 @@ As an essential service within the Delivery application ecosystem, the Delivery 
 - [Delivery Discovery](https://github.com/KyryloBulyk/delivery-discovery): Works alongside the Configuration Service to enable dynamic service discovery and registration, ensuring that configuration updates are promptly applied across services.
 
 - [Delivery Configuration Repository](https://github.com/KyryloBulyk/delivery-config-repo): In this repository we saving all configuration for Delivery Project
+
 The Delivery Configuration Service plays a vital role in maintaining the operational flexibility and resilience of the Delivery application by centralizing configuration management.
 
 ## Getting Started
